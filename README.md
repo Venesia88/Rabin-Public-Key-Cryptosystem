@@ -5,6 +5,11 @@ This repository includes
 - 256-bit prime number generation
 - Rabin public key cryptosystem
 
+# Usage
+```bash
+g++ main.cpp bignumber.cpp
+```
+
 # Sample IO:
 ## Rabin Encryption
   
